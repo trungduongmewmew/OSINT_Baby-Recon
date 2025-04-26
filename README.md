@@ -20,7 +20,7 @@ Hehe ngay từ cái tên file đã cho chúng ta gợi ý rồi. Favicon 
 
 ### Ý tưởng khai thác  
 Đề bài yêu cầu Submit flag theo định dạng: Flag{Country_CloudProvider}   (Ví dụ: Flag{Laos_KamateraCloud})  
-Thêm vào dữ kiện favicon, chúng ta có thể suy đoán file này sẽ là logo của một trang web nào đó mà đề bài muốn submit contry và couldprovider nên mục tiêu của chúng ta sẽ là tìm ra logo này thuộc trang web nào, sau đó xem địa chỉ IP của trang web rồi cuối cùng từ địa chỉ IP tìm ra country và cloudprovider.  
+Thêm vào dữ kiện favicon, chúng ta có thể suy đoán file này sẽ là logo của một trang web nào đó mà đề bài muốn submit country và couldprovider nên mục tiêu của chúng ta sẽ là tìm ra logo này thuộc trang web nào, sau đó xem địa chỉ IP của trang web rồi cuối cùng từ địa chỉ IP tìm ra country và cloudprovider.  
 Một file bất kỳ (ví dụ file ảnh favicon.ico) khi được tạo ra sẽ có một mã hash duy nhất (ví dụ: MD5, SHA1, SHA256).Một file favicon có thể nhìn giống file khác nhưng bên trong khác chút xíu (ví dụ metadata khác, dung lượng khác).Nếu chỉ nhìn ảnh bằng mắt, bạn sẽ không đảm bảo nó là cùng 1 file 100% ==> Ý tưởng sẽ tìm mã hash của file favicon này sau đó dùng các công cụ như Shodan, zoomeye, censys,...
 
 Ok bắt đầu thực chiến nào!  
