@@ -44,5 +44,5 @@ Èo vẫn không có kết quả ! Thử sang công cụ censys
 ![atl](Images/censys.png)  
 Lần này thì bắt được đối tượng tình nghi! IP của website là 172.104.49.143  
 Tiếp đến thì đơn giản rồi, chúng ra truy cập vào trang [ipinfo](https://ipinfo.io/) này để tìm thông tin của server.  
-![atl](Images/censys.png)  
+![atl](Images/flag.png)  
 Đến đây thì đi submit flag thôi. Flag{Singapore_Linode}
