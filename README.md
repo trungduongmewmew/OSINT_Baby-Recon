@@ -1,8 +1,8 @@
-# CTF Write-Up: Regex and Extract
+# CTF Write-Up: Baby Recon
 
 ## Mô tả bài thử thách  
 
-Bài thử thách tại [viblo](https://ctf.viblo.asia/) với tên Challenge là Regex and Extract  
+Bài thử thách tại [viblo](https://ctf.viblo.asia/) với tên Challenge là Baby Recon  
 
 Đề bài như sau: 
 ![atl](Images/BabyRecon.png)  
